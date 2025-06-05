@@ -1,0 +1,58 @@
+## Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+
+## VS user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider-specific
+.idea/
+
+## OS-generated
+.DS_Store
+Thumbs.db
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET
+wwwroot/node_modules/
+wwwroot/lib/
+node_modules/
+bower_components/
+
+## Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+## Visual Studio Code
+.vscode/
+
+## Others
+*.log
+*.vsidx
+*.sdf
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.mdb
+*.sqlite
+
+## JetBrains Rider
+.idea/
+*.sln.iml

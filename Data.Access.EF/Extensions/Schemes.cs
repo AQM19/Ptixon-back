@@ -4,6 +4,9 @@
     {
         auth,
         storage,
-        realtime
+        realtime,
+        people,
+        lofts,
+        competition
     }
 }
